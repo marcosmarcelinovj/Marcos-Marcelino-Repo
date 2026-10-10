@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,TV Novo Tempo
-https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,Rádio Novo Tempo Rio
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntRioRJ.smil/playlist.m3u8
 #EXTINF:-1,Rádio Novo Tempo Teresópolis
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntTeresopolisRJ.smil/playlist.m3u8
 #EXTINF:-1,Rádio Novo Tempo Jacareí
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1,TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,TV Correio da Manhã
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 #EXTINF:-1,TV Petrópolis
