@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,Rádio Novo Tempo Rio
+https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntRioRJ.smil/playlist.m3u8
+#EXTINF:-1,Rádio Novo Tempo Teresópolis
+https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntTeresopolisRJ.smil/playlist.m3u8
+#EXTINF:-1,Rádio Novo Tempo Jacareí
+https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1,TV Correio da Manhã
+https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
+#EXTINF:-1,TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1,Giro TV News
+https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
+#EXTINF:-1,TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
+#EXTINF:-1,Canal Gov
+https://canalgov-stream.ebc.com.br/GOV.m3u8
+#EXTINF:-1,Canal Educação
+https://canaleducacao-stream.ebc.com.br/EDUCACAO.m3u8
+#EXTINF:-1,Canal Saúde
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1,CaTVe (Cultura)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1,Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1,RBAtv (Band)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1,TV Aratu (SBT)
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1,TV Vila Real (Record)
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1,Rede Família
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:-1,Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1,SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1,Jovem Pan News
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1,Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1,Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1,Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1,Receitas Fast
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1,NSports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1,CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1,Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Runtime
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1,Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1,Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1,Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1,Runtime Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1,Runtime Família
+https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:-1,Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1,Rádio MEC FM Rio
+https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
