@@ -19,8 +19,6 @@ https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
 https://canalgov-stream.ebc.com.br/GOV.m3u8
 #EXTINF:-1,Canal Educação
 https://canaleducacao-stream.ebc.com.br/EDUCACAO.m3u8
-#EXTINF:-1,Canal Saúde
-https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1,CaTVe (Cultura)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1,Rede Brasil
@@ -71,3 +69,5 @@ https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1,Rádio MEC FM Rio
 https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
+#EXTINF:-1,JB FM
+https://27323.live.streamtheworld.com/JBFMAAC.aac
