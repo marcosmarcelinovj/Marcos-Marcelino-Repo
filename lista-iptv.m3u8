@@ -13,6 +13,8 @@ https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1,Giro TV News
 https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
+#EXTINF:-1,Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1,TV Brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
 #EXTINF:-1,Canal Gov
@@ -41,12 +43,8 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
-#EXTINF:-1,Bem Mais TV
-https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1,Receitas Fast
 https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1,NSports
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1,CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1,Sony One Emoções
@@ -65,8 +63,6 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 #EXTINF:-1,Runtime Família
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
-#EXTINF:-1,Adrenalina Pura TV
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1,Rádio MEC FM Rio
 https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
 #EXTINF:-1,JB FM
